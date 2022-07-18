@@ -7,7 +7,8 @@ body {
 }
 header {
   text-align: center;
-  background-color: darkgray;
+  background-color: black;
+	color: white;
   padding: 30px;
   font-size: xx-large;
   font-family: monospace;  
@@ -15,7 +16,7 @@ header {
   grid-column-end: 3;
 }
 nav {
-  background: dimgrey;
+  background: #ff780a;
   padding: 20px;
   grid-column-start: 1;
   grid-column-end: 2;
@@ -36,7 +37,8 @@ width: 200px;
 }
 footer {
 text-align: center;
-background-color: darkgray;
+background-color: black;
+color: white;
 padding: 30px;
 font-family: monospace;
 grid-column-start: 1;
